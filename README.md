@@ -3,6 +3,9 @@
 
 An attempt to (partially) reimplement [OpenAI's gym](https://github.com/openai/gym) for Reinforcement Learning in Kotlin. The intended use is alongside [KotlinDL](https://github.com/JetBrains/KotlinDL).
 
+## Environments
+* CartPole (no unit tests) -- [original](https://gym.openai.com/envs/CartPole-v1/)
+
 ## Getting started
 Get the library, in `build.gradle.kts`:
 ```
